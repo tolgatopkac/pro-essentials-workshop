@@ -1,6 +1,12 @@
 type Recipe = {
   title: string;
+  ingredients: Ingredients[];
   instructions: string;
+};
+
+type Ingredients = {
+  name: string;
+  quantity: string;
 };
 
 const processRecipe = (recipe: Recipe) => {
