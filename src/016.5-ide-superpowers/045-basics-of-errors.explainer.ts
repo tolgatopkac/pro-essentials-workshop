@@ -20,7 +20,7 @@ type MyUser = {
 };
 
 const user: MyUser = {
-  nme: "Katherine",
+  name: "Katherine",
 };
 
 // But sometimes that's not always possible
