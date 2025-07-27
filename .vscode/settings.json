@@ -5,4 +5,5 @@
     "*": false,
   },
   "explorer.sortOrder": "mixed",
+  "liveServer.settings.port": 5501,
 }
